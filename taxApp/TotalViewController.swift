@@ -7,7 +7,7 @@
 
 import UIKit
 
-class TotalViewController: UITableViewController {
+class TotalViewController: UIViewController {
     
     // UI要素の紐付け
     @IBOutlet weak var totalLabel: UILabel!
